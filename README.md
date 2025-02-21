@@ -1,11 +1,11 @@
-Sentimental Anlaysis on IMBD dataset.
+# Sentimental Anlaysis on IMBD dataset.
 
-Technology Used:
+## Technology Used:
 * nltk for tokenization, stopword removal and lemmaitzation
 * word2vec for vectorization
 * Traditional algorithms like svc and logistic regression
 * Deep learning algorithms like RNN and LSTM
 
   
-Result:
+## **Result**:
 * Got around 86% accuracy
