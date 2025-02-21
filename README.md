@@ -7,5 +7,5 @@
 * Deep learning algorithms like RNN and LSTM
 
   
-## **Result**:
+## Result:
 * Got around 86% accuracy
