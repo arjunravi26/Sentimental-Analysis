@@ -5,5 +5,7 @@ Technology Used:
 * word2vec for vectorization
 * Traditional algorithms like svc and logistic regression
 * Deep learning algorithms like RNN and LSTM
+
+  
 Result:
 * Got around 86% accuracy
